@@ -3,7 +3,9 @@
 
 lklkshfgldsf
 function:patata(var 1){
-	lkdhaglhf
+	lkdhaglhf sadlkgjslgknlkhhafbgsfhfdhasdfg
 	asfghoiafs
 	aspfdghisofg
+	dgfhfdgjfj
+	sdghjfgjfj
 }
