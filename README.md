@@ -9,3 +9,7 @@ function:patata(var 1){
 	dgfhfdgjfj
 	sdghjfgjfj
 }
+
+function: verdura(caca){
+	otra function;
+}
